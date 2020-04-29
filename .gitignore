@@ -1,0 +1,19 @@
+# IDEs #
+########
+.idea/
+.vscode/
+
+# data #
+########
+data/
+pics/
+*.json
+*.csv
+*.png
+*.jpeg
+*.jpg
+*.jp2
+
+# secrets #
+###########
+*.env
