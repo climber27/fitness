@@ -18,3 +18,10 @@ pics/
 # secrets #
 ###########
 *.env
+
+# generated #
+#############
+setup.py
+dist/
+build/
+*.egg-info
